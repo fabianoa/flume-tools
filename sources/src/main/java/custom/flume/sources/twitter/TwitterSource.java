@@ -1,4 +1,4 @@
-package mmartsen.flume.sources.twitter;
+package custom.flume.sources.twitter;
 
 import java.util.HashMap;
 import java.util.Map;
